@@ -7,12 +7,10 @@ export default function Home() {
   const [caseType, setCaseType] = useState();
   const [classType, setClassType] = useState();
   const [resultList, setResultList] = useState([]);
-  console.log("resultList", resultList);
+
   const classIList = ["IFU", "label", "manufacturer name & address"];
 
   const handleRequired = (e) => {
-    console.log(caseType);
-    console.log(classType);
     if (caseType === "新案" && classType === "ClassI") {
       if (e.target.checked) {
         setResultList([...resultList, e.target.id]);
