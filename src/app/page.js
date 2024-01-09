@@ -8,7 +8,7 @@ export default function Home() {
   const [classType, setClassType] = useState();
   const [resultList, setResultList] = useState([]);
   console.log("resultList", resultList);
-  const classIList = ["IFV", "label", "manufacturer name & address"];
+  const classIList = ["IFU", "label", "manufacturer name & address"];
 
   const handleRequired = (e) => {
     console.log(caseType);
