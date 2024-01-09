@@ -170,7 +170,7 @@ export default function Home() {
             <tbody>
               {resultList.map((item, index) => {
                 return (
-                  <tr>
+                  <tr key={item + index}>
                     <td className="border border-black">{index}</td>
                     <td className="border border-black">{item}</td>
                   </tr>
