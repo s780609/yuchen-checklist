@@ -140,7 +140,7 @@ export default function Home() {
       "Brochure (Catalog)",
       "Label",
       "Color Photo",
-      "FSC or CFG (Forest Stewardship Council or Controlled Wood)",
+      "FSC or CFG",
       "LoA (Letter of Authorization)",
       "Product Explosive Drawing + Bill of Material (BOM) + Block Diagram (or Electric Circuit Diagram)",
       "Product Engineering Drawing",
