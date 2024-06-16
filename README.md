@@ -1,5 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 昱臻的CASE
+需要根據不同的選擇(select list)，列出需求文件清單  
+可以參考以下PPT  
+[昱臻畫的PPT](https://docs.google.com/presentation/d/11jBNprSIYXk3jOpXCJNbUC93voWiFyIzky1YN6BvtVc/edit#slide=id.g266392bbb45_0_29)
 
+# next js
 ## Getting Started
 
 First, run the development server:
